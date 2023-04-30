@@ -4,10 +4,10 @@
     </a>
   </div>
 
-<img src="http://static.tuoz.vip/img/jiangbei.svg" />
+<img src="http://static.tuoz.vip/image/jiangbei.svg" />
 
 
-<img src="http://static.tuoz.vip/img/13b0bb1d6ce88dd2d701.jpg" />
+<img src="	http://static.tuoz.vip/img/780f0022b6e356031245.jpg" />
 
 
 
