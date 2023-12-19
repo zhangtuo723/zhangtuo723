@@ -45,9 +45,6 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
- 
-<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pytorch/pytorch-ar21.svg"></code>
-  
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
