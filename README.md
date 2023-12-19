@@ -37,7 +37,6 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
 </p>
 #### :computer: Programming languages and tools :computer: : 
 <p>
@@ -45,6 +44,8 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
+ 
 <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pytorch/pytorch-ar21.svg"></code>
   
 <br />
