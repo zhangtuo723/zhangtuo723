@@ -1,4 +1,4 @@
-### Hi there 👋 This is Lina ！✨ 
+### Hi there 👋 This is TUO ！✨ 
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zhangtuo723)
@@ -9,20 +9,16 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 
 
 #### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about Data Science and Machine Learning 
-- [My website](https://zhanglina94.github.io) 🚀 *coming soon*
+- 一名 deep learning 入门研究生。
+- 高级研发工程师。
+- [My website](https://www.tuoz.vip) 🚀 *coming soon*
 
 
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Chat GPT
-- Stable Diffusion
-- Image generation
-- Layout2image
-- pix2pix
-#### 🌻 I am studying 🌻
-- IELTS
-- French
-- German
+- LowCode
+- Text generation
+- Vue、React、Node
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
