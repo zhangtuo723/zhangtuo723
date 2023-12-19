@@ -5,7 +5,7 @@
 
 Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!  
 
-<img align="right" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/gbt2.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/coding.gif" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on 🌱 : 
