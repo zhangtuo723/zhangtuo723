@@ -12,11 +12,12 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 
 
 #### 🌱 Things I am currently working on 🌱 : 
-- 一名 deep learning 入门研究生。
-- 高级研发工程师。
+- 一名 deep learning 入门研究生
+- 高级研发实习生
 - [My website](https://www.tuoz.vip) 🚀 *coming soon*
-
-
+### 🏃Personal skill advantages 🔥
+- 精通 Pthon、Java、C/C++、JavaScript、Mysql、React、VUE、CSS、HTML等单词的拼写
+- 精通 Windows、Linux、Mac、IOS等系统的开关机
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Chat GPT
 - LowCode
