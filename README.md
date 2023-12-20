@@ -10,7 +10,8 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 
 <img align="right" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/coding.gif" width="50%" height="auto" />
 
-[![zhangtuo723's Most used languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangtuo723 GitHubID&layout=compact&hide_border=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangtuo723)
+
 
 #### 🌱 Things I am currently working on 🌱 : 
 - 一名 deep learning 入门研究生
