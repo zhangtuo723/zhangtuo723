@@ -15,7 +15,7 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 - 高级研发实习生
 - [My website](https://www.tuoz.vip) 🚀 *coming soon*
 ### 🏃Personal skill advantages 🔥
-- 精通 Pthon、Java、C/C++、JavaScript、Mysql、React、VUE、CSS、HTML等单词的拼写
+- 精通 Python、Java、C/C++、JavaScript、Mysql、React、VUE、CSS、HTML等单词的拼写
 - 精通 Windows、Linux、Mac、IOS等系统的开关机
 
 
