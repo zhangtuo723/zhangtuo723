@@ -10,9 +10,6 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 
 <img align="right" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/coding.gif" width="50%" height="auto" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangtuo723)
-
-
 #### 🌱 Things I am currently working on 🌱 : 
 - 一名 deep learning 入门研究生
 - 高级研发实习生
@@ -20,6 +17,9 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 ### 🏃Personal skill advantages 🔥
 - 精通 Pthon、Java、C/C++、JavaScript、Mysql、React、VUE、CSS、HTML等单词的拼写
 - 精通 Windows、Linux、Mac、IOS等系统的开关机
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&card_width=500&card_height=300)
+
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Chat GPT
 - LowCode
