@@ -18,7 +18,9 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 - 精通 Pthon、Java、C/C++、JavaScript、Mysql、React、VUE、CSS、HTML等单词的拼写
 - 精通 Windows、Linux、Mac、IOS等系统的开关机
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangtuo723&layout=compact&langs_count=10&card_width=500&card_height=300)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangtuo723&layout=compact&langs_count=10&card_width=300&card_height=200" alt="Top Langs" style="float: right;">
+</p>
 
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Chat GPT
