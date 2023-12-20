@@ -67,4 +67,4 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 
 </p>
-If you want to know more, please refer to the my <span> [My website](https://www.tuoz.vip) 🚀 *coming soon*</span>
+If you want to know more, please refer to the my <span> <a href="https://www.tuoz.vip">My websit</a> 🚀 *coming soon*</span>
