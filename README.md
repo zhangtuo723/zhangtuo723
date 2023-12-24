@@ -1,5 +1,5 @@
 # Hi there 👋 This is TUO ！✨ 
-<img align="left" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/bgt.png" width="100%" height="auto" />
+<img align="left" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/v2-5a570c531fcd0fe1781b6eb1b3c743b0_r.jpg" width="100%" height="auto" />
 
 # About me🌽
 
