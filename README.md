@@ -10,12 +10,11 @@ Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!
 <img align="right" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/coding.gif" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on 🌱 : 
-- 一名 deep learning 入门研究生
+- 一名 deep learning 研究生
 - 高级研发实习生
 - [My website](https://www.tuoz.vip) 🚀 *coming soon*
 ### 🏃Personal skill advantages 🔥
-- 精通 Python、Java、C/C++、JavaScript、Mysql、React、VUE、CSS、HTML等单词的拼写
-- 精通 Windows、Linux、Mac、IOS等系统的开关机
+- 熟练 Python、Java、C/C++、JavaScript、Mysql、React、VUE、CSS、HTML等
 
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangtuo723&layout=compact&langs_count=10&card_width=500&card_height=300" alt="Top Langs" style="float: right;">
