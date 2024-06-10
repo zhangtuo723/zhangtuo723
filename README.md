@@ -1,5 +1,5 @@
 # Hi there 👋 This is TUO ！✨ 
-<img align="left" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/bgt.png" width="100%" height="auto" />
+<img align="left" alt="img" src="https://test-1301661941.cos.ap-nanjing.myqcloud.com/bgt.png" width="100%" height="auto" />
 
 # About me🌽
 
@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and FE!  
 
-<img align="right" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/coding.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://test-1301661941.cos.ap-nanjing.myqcloud.com/coding.gif" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on 🌱 : 
 - 一名 deep learning 研究生
