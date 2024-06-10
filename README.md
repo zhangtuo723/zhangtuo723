@@ -1,5 +1,13 @@
 # Hi there 👋 This is TUO ！✨ 
-<img align="left" alt="img" src="https://test-1301661941.cos.ap-nanjing.myqcloud.com/bgt.png" width="95%" height="auto" />
+<img align="left" alt="img" src="https://test-1301661941.cos.ap-nanjing.myqcloud.com/bgt.png" width="100%" height="auto" />
+
+
+
+
+ss
+
+
+ss
 
 # About me🌽
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zhangtuo723)
