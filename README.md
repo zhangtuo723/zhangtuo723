@@ -1,69 +1,53 @@
-# Hi there 👋 This is TUO ！✨ 
-<img align="left" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/bgt.png" width="100%" height="auto" />
+<div align="center">
 
-# About me🌽
+# Hi, I'm Tuo 👋
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zhangtuo723)
+**AI Agents · Creative Tools · Full-stack Development**
 
-Welcome to my Github page! I am zhangtuo and I am currently Learning NLP and Agent!  
+把想法做成工具，把 AI 接进真实的创作流程。
 
-<img align="right" alt="img" src="https://github.com/zhangtuo723/zhangtuo723/blob/main/assets/coding.gif" width="50%" height="auto" />
+Building practical tools for AI-powered creation.
 
-#### 🌱 Things I am currently working on 🌱 : 
-- 一名 deep learning 研究生
-- Agent 开发
-- [My website](https://www.tuoz.vip) 🚀 *coming soon*
-### 🏃Personal skill advantages 🔥
-- 熟练 Python、Java、C/C++、JavaScript、Mysql、React、VUE、CSS、HTML等
+[个人网站](https://www.tuoz.vip) · [我的项目](https://github.com/zhangtuo723?tab=repositories)
 
+</div>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangtuo723&layout=compact&langs_count=10&card_width=500&card_height=300" alt="Top Langs" style="float: right;">
+---
 
+### 关于我 / About me
 
-#### ⚡ Things recent ones I'm interested in ⚡ : 
-- Chat GPT
-- Agent
-- RL
-- Text generation
-- Vue、React、Node
+我是 Tuo，一个喜欢把想法做成可用产品的开发者。
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+从 NLP、深度学习到 AI Agent，我持续探索模型与应用之间的连接：用前端组织复杂交互，用工具连接生成能力，让图像、视频和自动化流程更容易使用。
 
-#### :computer: Programming languages and tools :computer: : 
-<p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhangtuo723&show_icons=true&hide_border=true" />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+- 🤖 **AI Agent** — 工具调用、CLI 与可视化工作流，让 Agent 参与实际任务。
+- 🎬 **AIGC 创作** — 图像与视频生成、分镜编排、画布交互和创作工具。
+- 🛠️ **产品开发** — 从 Web 到桌面应用，也折腾相机、打印与 iPad 上的创作体验。
+- 🌱 **持续探索** — NLP、模型微调与强化学习，边做项目边验证想法。
 
-</p>
-If you want to know more, please refer to the my <span> <a href="https://www.tuoz.vip">My websit</a> 🚀 *coming soon*</span>
+### 正在构建 / Selected projects
+
+| 项目 | 在做什么 | 技术与关键词 |
+| :--- | :--- | :--- |
+| [**AIGC CANVAS**](https://github.com/zhangtuo723/aigc_line) | AI 短剧与分镜视频创作工作台：参考图、节点式生成与 3D 导演预演 | TypeScript · Electron · React Flow · Claude Agent · ComfyUI · Three.js |
+| [**Drama Canvas**](https://github.com/zhangtuo723/drama-canvas) | 用 CLI 和 Codex 操作本地图像与视频画布，管理生成依赖和历史 | JavaScript · CLI · Codex · Media Canvas |
+| [**SnapBooth**](https://github.com/zhangtuo723/SnapBooth) | 连接佳能相机拍摄与照片打印的 iPad 拍照亭应用 | Swift · iPad · USB PTP · Photo Printing |
+
+### 技术工具箱 / Toolbox
+
+- **应用与交互：** TypeScript / JavaScript · React · Vue · Node.js · Electron
+- **AI 与实验：** Python · PyTorch · NLP · Agent · ComfyUI
+- **创作与可视化：** React Flow · Three.js · Excalidraw
+- **工程工具：** Git · Docker · GitHub Actions
+
+### 一些探索 / Experiments
+
+- [**Qwen3 Poetry Generation**](https://github.com/zhangtuo723/qwen3_poetry_generation) — 用 Qwen3 微调探索诗词生成。
+- [**FlappyBird Q-learning**](https://github.com/zhangtuo723/FlappyBird_Qlearning) — 用强化学习玩 Flappy Bird。
+- [**GBRAIN**](https://github.com/zhangtuo723/GBRAIN) — 探索文本标签噪声下的粒球鲁棒训练。
+
+---
+
+对 AI Agent、创作工具或有趣的小产品感兴趣，欢迎通过项目 Issues 交流。
+
+*保持好奇，持续构建。Stay curious, keep building.*
