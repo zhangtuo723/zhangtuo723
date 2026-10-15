@@ -8,7 +8,7 @@
 
 Building practical tools for AI-powered creation.
 
-[个人网站](https://www.tuoz.vip) · [我的项目](https://github.com/zhangtuo723?tab=repositories)
+[个人网站](https://zhangtuo723.github.io) · [我的项目](https://github.com/zhangtuo723?tab=repositories)
 
 </div>
 
